@@ -1,0 +1,19 @@
+
+import React from 'react';
+
+const Expenses = () => {
+return (
+<div className="section">
+<h2>Expenses</h2>
+<ul>
+<li>Water</li>
+<li>Gas</li>
+<li>Energy</li>
+<li>Rent</li>
+<li>Food</li>
+</ul>
+</div>
+);
+};
+
+export default Expenses;
