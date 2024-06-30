@@ -1,1 +1,6 @@
-# Home-budget-planner-
+# Home Budget Planner 
+
+In the project directory, you can run:
+
+### `npm start`
+
